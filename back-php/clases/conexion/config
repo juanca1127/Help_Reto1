@@ -1,0 +1,9 @@
+{
+    "conexion":{
+        "server" : "localhost",
+        "user" : "root",
+        "password" : "",
+        "database" : "db_reto1",
+        "port": "3306"
+    }
+}
