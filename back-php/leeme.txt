@@ -1,0 +1,3 @@
+esta carpeta back-php se debe sacar de esta ruta y pegarla en
+ la ruta del xampp, esta es la api rest,
+  la pegue aqui para subir un solo repo
